@@ -36,7 +36,7 @@ Targeted Capability:
 Topics:
   * Github: projects, forks and branches, pull requests
 
-![Concept summary](Session1_concepts.png)
+![Concept summary](https://github.com/Testing-Dozen/testing-dozen.github.io/blob/6555dd8171c321ab90c3b5000950014c13ba23a9/Session1-concepts.png?raw=true)
 
 Homework: 
   * Improve this page through pull requests
