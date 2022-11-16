@@ -3,14 +3,14 @@ Testing Dozen is a group mentoring program run by Maaret Pyhäjärvi (@maaretp) 
 
 ## Participants
   * Aino
-  * Svetlana Egorov
+  * Svetlana Egorov @SvetlanaS1212
   * Pia Vesala
   * samuel
-  * Miia
+  * Miia @iammiiam
   * Olga
   * Katri Kiero
-  * Gold Lola
-  * Olayinka
+  * Gold Lola 
+  * Olayinka  @Olayinka_Dele
   * Hanna
   * Sanna Tawah
   * Martha
@@ -30,7 +30,7 @@ Topics:
 
 ## Skills
 
-We will build this forward. 
+We will build this forward. Later. 
 
 Can do the job? 
 
