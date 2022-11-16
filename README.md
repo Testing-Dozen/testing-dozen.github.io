@@ -30,7 +30,7 @@ Topics:
 
 ## Skills
 
-We will build this forward. 
+We will build this forward. Later. 
 
 Can do the job? 
 
