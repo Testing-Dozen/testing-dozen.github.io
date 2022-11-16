@@ -36,6 +36,8 @@ Targeted Capability:
 Topics:
   * Github: projects, forks and branches, pull requests
 
+![Concept summary](Session1_concepts.png)
+
 Homework: 
   * Improve this page through pull requests
   * Install Git and VSCode
