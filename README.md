@@ -1,4 +1,4 @@
-# Website testing-dozen.github.io
+# testing-dozen.github.io
 Testing Dozen is a group mentoring program run by Maaret Pyhäjärvi (@maaretp) to create testing specialists
 
 ## Participants
@@ -6,7 +6,7 @@ Testing Dozen is a group mentoring program run by Maaret Pyhäjärvi (@maaretp) 
   * Svetlana Egorov
   * Pia Vesala
   * samuel
-  * Miia
+  * Miia @iammiiam
   * Olga
   * Katri Kiero
   * Gold 
