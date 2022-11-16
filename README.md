@@ -42,6 +42,7 @@ Homework:
   
 Recommended reading:
   * Git tutorial
+  * [Markdown manual](https://www.markdownguide.org/basic-syntax/) 
 
 ### Session 2: Automationist's Gambit
 
