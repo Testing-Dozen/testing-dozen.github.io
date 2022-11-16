@@ -30,6 +30,8 @@ Topics:
 
 ## Skills
 
+We will build this forward. 
+
 Can do the job? 
 
 •	Can look at an application and make sense of it
