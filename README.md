@@ -56,6 +56,12 @@ Topics:
   * Contemporary exploratory testing with automationist's gambit
   * Basic Python and Playwright
 
+Target app:
+  * https://www.exploratorytestingacademy.com/app/ 
+
+Recommended readings: 
+  * [Courseware: Exploratory Testing Foundations -course](https://dev.to/maaretp/exploratory-testing-foundations-4lb3)
+
 ## Targeted Skills
 
 Can do the testing job? 
