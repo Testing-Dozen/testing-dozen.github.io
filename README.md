@@ -7,7 +7,7 @@ Testing Dozen is a group mentoring program run by Maaret Pyhäjärvi (@maaretp) 
   * Pia Vesala
   * samuel
   * Miia
-  * Olga
+  * Olga Larintseva
   * Katri Kiero
   * Gold 
   * Olayinka
