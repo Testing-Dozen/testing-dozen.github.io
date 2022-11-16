@@ -2,8 +2,20 @@
 Testing Dozen is a group mentoring program run by Maaret Pyhäjärvi (@maaretp) to create testing specialists
 
 ## Participants
-
-
+  * Aino
+  * Svetlana Egorov
+  * Pia Vesala
+  * samuel
+  * Miia
+  * Olga
+  * Katri Kiero
+  * Gold 
+  * Olayinka
+  * Hanna
+  * Sanna Tawah
+  * Martha
+  * Sergey
+  
 ## Session 1
 
 Capability:
