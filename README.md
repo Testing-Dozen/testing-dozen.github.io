@@ -15,7 +15,7 @@
   * Katri Kiero
   * Gold Lola 
   * Olayinka  @Olayinka_Dele
-  * Hanna
+  * Hanna @tuutin-t
   * Sanna Tawah
   * Martha
   * Sergey   @embedded-sergey
