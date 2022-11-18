@@ -45,6 +45,7 @@ Homework:
 Recommended reading:
   * Git tutorial
   * [Markdown manual](https://www.markdownguide.org/basic-syntax/) 
+  * [Catalin Pit: How to Create a Kickass GitHub Profile Page](https://catalins.tech/how-to-create-a-kickass-github-profile-page/)
 
 ### Session 2: Automationist's Gambit
 
