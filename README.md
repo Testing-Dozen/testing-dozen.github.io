@@ -12,7 +12,7 @@
   * samuel
   * Miia @iammiiam
   * Olga
-  * Katri Kiero
+  * Katri Kiero @katrikiero
   * Gold Lola 
   * Olayinka  @Olayinka_Dele
   * Hanna @tuutin-t
