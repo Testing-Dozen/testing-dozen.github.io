@@ -62,6 +62,7 @@ Target app:
 
 Recommended readings: 
   * [Courseware: Exploratory Testing Foundations -course](https://dev.to/maaretp/exploratory-testing-foundations-4lb3)
+  * [Top Programming Languages 2022](https://octoverse.github.com/2022/top-programming-languages)
 
 ## Targeted Skills
 
