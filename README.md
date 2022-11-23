@@ -8,7 +8,7 @@
 ## Participants
   * Aino
   * Svetlana Egorov @SvetlanaS1212
-  * Pia piavesala
+  * Pia @piavesala
   * samuel
   * Miia @iammiiam
   * Olga
