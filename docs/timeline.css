@@ -26,7 +26,9 @@
   }
   
   img {
-    margin-bottom: 10px;
+    margin-bottom: 10px;    
+    margin-top: 10px;
+
   }
 
   a {
@@ -118,7 +120,7 @@
   .title {
     color: var(--secondary-color);
     position: relative;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
   }
 
   /* Timeline dot  */
