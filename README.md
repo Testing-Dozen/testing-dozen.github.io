@@ -16,7 +16,7 @@
   * Gold Lola 
   * Olayinka  @Olayinka_Dele
   * Hanna @tuutin-t
-  * Sanna Tawah
+  * Sanna Tawah @nanahamjam
   * Martha
   * Sergey   @embedded-sergey
   
