@@ -59,6 +59,8 @@ Topics:
   * Basic concepts: bug, test, coverage, oracle, heuristics
   * Basic Python, pytest and Playwright
 
+![Concept summary](https://github.com/Testing-Dozen/testing-dozen.github.io/blob/main/Session2-concepts.png?raw=true)
+
 Target app:
   * [Eprimer app as test target](https://www.exploratorytestingacademy.com/app/)
   * [Test Code Repo for ETF course](https://github.com/exploratory-testing-academy/ETF)
