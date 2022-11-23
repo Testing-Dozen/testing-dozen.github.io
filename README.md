@@ -43,9 +43,10 @@ Homework:
   * Install Git and VSCode
   
 Recommended reading:
-  * Git tutorial
+  * [Git tutorial](https://www.w3schools.com/git/)
   * [Markdown manual](https://www.markdownguide.org/basic-syntax/) 
   * [Catalin Pit: How to Create a Kickass GitHub Profile Page](https://catalins.tech/how-to-create-a-kickass-github-profile-page/)
+  * [Ship, show ask - branching strategies](https://martinfowler.com/articles/ship-show-ask.html)
 
 ### Session 2: Automationist's Gambit
 
@@ -55,10 +56,11 @@ Targeted Capability:
   
 Topics:
   * Contemporary exploratory testing with automationist's gambit
+  * Basic concepts: bug, test, coverage, oracle, heuristics
   * Basic Python, pytest and Playwright
 
 Target app:
-  * https://www.exploratorytestingacademy.com/app/ 
+  * [Eprimer app as test target](https://www.exploratorytestingacademy.com/app/)
   * [Test Code Repo for ETF course](https://github.com/exploratory-testing-academy/ETF)
   * [Python-pytest-playwright commands ReadMe](https://github.com/exploratory-testing-academy/ETF/blob/master/python-playwright/README.md)
   
