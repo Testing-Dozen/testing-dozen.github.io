@@ -76,6 +76,7 @@ Recommended readings:
   * [Elisabeth Hendrickson: Test Heuristics Cheat Sheet](https://drive.google.com/file/d/1TaFRhTsy0QRjgtaHSVu3L73Q9JVee0hA/view?usp=sharing)
   * [Github Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)
   * [Exploratory Testing Dynamics](https://www.developsense.com/resource/et-dynamics3.pdf)
+  * [QA Engineer Roadmap - conceptual learning map](https://roadmap.sh/qa)
 
 ## Targeted Skills
 
