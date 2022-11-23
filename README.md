@@ -11,7 +11,7 @@
   * Pia @piavesala
   * samuel
   * Miia @iammiiam
-  * Olga
+  * Olga Larintseva @Loranpire
   * Katri Kiero @katrikiero
   * Gold Lola 
   * Olayinka  @Olayinka_Dele
