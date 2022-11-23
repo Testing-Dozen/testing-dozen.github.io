@@ -13,7 +13,7 @@
   * Miia @iammiiam
   * Olga Larintseva @Loranpire
   * Katri Kiero @katrikiero
-  * Gold Lola 
+  * Gold Lola @GoldLola
   * Olayinka  @Olayinka_Dele
   * Hanna @tuutin-t
   * Sanna Tawah @nanahamjam
