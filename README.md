@@ -9,7 +9,7 @@
   * Aino
   * Svetlana Egorov @SvetlanaS1212
   * Pia @piavesala
-  * samuel @samuelnarteyGH / twitter: @samuelnomis
+  * samuel @samuelnarteyGH @samuelnomis
   * Miia @iammiiam
   * Olga Larintseva @Loranpire
   * Katri Kiero @katrikiero
