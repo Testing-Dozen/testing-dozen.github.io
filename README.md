@@ -65,7 +65,7 @@ Target app:
   * [Eprimer app as test target](https://www.exploratorytestingacademy.com/app/)
   * [Test Code Repo for ETF course](https://github.com/exploratory-testing-academy/ETF)
   * [Python-pytest-playwright commands ReadMe](https://github.com/exploratory-testing-academy/ETF/blob/master/python-playwright/README.md)
-  * <script src="https://gist.github.com/maaretp/cfd3a9097abbefd7cb9683d6f9e26dec.js"></script>
+  * [Gist of session 2 tests](https://gist.github.com/maaretp/cfd3a9097abbefd7cb9683d6f9e26dec)
   
 Homework: 
   * Try to get python-pytest-playwright tests to run on your computer
