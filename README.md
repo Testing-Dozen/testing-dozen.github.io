@@ -55,14 +55,25 @@ Targeted Capability:
   
 Topics:
   * Contemporary exploratory testing with automationist's gambit
-  * Basic Python and Playwright
+  * Basic Python, pytest and Playwright
 
 Target app:
   * https://www.exploratorytestingacademy.com/app/ 
+  * [Test Code Repo for ETF course](https://github.com/exploratory-testing-academy/ETF)
+  * [Python-pytest-playwright commands ReadMe](https://github.com/exploratory-testing-academy/ETF/blob/master/python-playwright/README.md)
+  
+Homework: 
+  * Try to get python-pytest-playwright tests to run on your computer
+  * Think about more inputs that could reveal bugs
 
 Recommended readings: 
   * [Courseware: Exploratory Testing Foundations -course](https://dev.to/maaretp/exploratory-testing-foundations-4lb3)
+  * [pytest](https://docs.pytest.org/en/7.2.x/)
+  * [playwright in python](https://playwright.dev/python/docs/intro)
   * [Top Programming Languages 2022](https://octoverse.github.com/2022/top-programming-languages)
+  * [Elisabeth Hendrickson: Test Heuristics Cheat Sheet](https://drive.google.com/file/d/1TaFRhTsy0QRjgtaHSVu3L73Q9JVee0hA/view?usp=sharing)
+  * [Github Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)
+  * [Exploratory Testing Dynamics](https://www.developsense.com/resource/et-dynamics3.pdf)
 
 ## Targeted Skills
 
