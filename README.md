@@ -8,15 +8,15 @@
 ## Participants
   * Aino
   * Svetlana Egorov @SvetlanaS1212
-  * Pia Vesala
-  * samuel
+  * Pia @piavesala
+  * samuel @samuelnarteyGH / twitter: @samuelnomis
   * Miia @iammiiam
-  * Olga
-  * Katri Kiero
+  * Olga Larintseva @Loranpire
+  * Katri Kiero @katrikiero
   * Gold Lola 
   * Olayinka  @Olayinka_Dele
-  * Hanna
-  * Sanna Tawah
+  * Hanna @tuutin-t
+  * Sanna Tawah @nanahamjam
   * Martha  @Lopezmartha
   * Sergey   @embedded-sergey
   
@@ -45,6 +45,7 @@ Homework:
 Recommended reading:
   * Git tutorial
   * [Markdown manual](https://www.markdownguide.org/basic-syntax/) 
+  * [Catalin Pit: How to Create a Kickass GitHub Profile Page](https://catalins.tech/how-to-create-a-kickass-github-profile-page/)
 
 ### Session 2: Automationist's Gambit
 
@@ -61,6 +62,7 @@ Target app:
 
 Recommended readings: 
   * [Courseware: Exploratory Testing Foundations -course](https://dev.to/maaretp/exploratory-testing-foundations-4lb3)
+  * [Top Programming Languages 2022](https://octoverse.github.com/2022/top-programming-languages)
 
 ## Targeted Skills
 
