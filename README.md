@@ -82,6 +82,7 @@ Recommended readings:
   * [Github Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)
   * [Exploratory Testing Dynamics](https://www.developsense.com/resource/et-dynamics3.pdf)
   * [QA Engineer Roadmap - conceptual learning map](https://roadmap.sh/qa)
+  * [Computing tools for CS studies course material](https://tkt-lapio.github.io/en/)
 
 # Session 2.1 - Installing your dev environment
 
