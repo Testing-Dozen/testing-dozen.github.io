@@ -109,8 +109,8 @@ Checklist for further configuring tooling:
   * install playwright node tooling with `playwright install on terminal
   * clone a project from github and open that folder in vscode, sandbox with virtual environment as before
   * make changes in files, try commit&sync in vscode
-  * to commit successfully, define git.name and git.email from terminal
-  * to sync successfully, create keys for github access on git bash [howto](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+  * to commit successfully, define git.name and git.email from terminal [how to](https://linuxize.com/post/how-to-configure-git-username-and-email/)
+  * to sync successfully, create keys for github access on git bash [how to](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
 Extra practice:
   * learn to navigate folders with `cd ..` and `cd folder_name` and check files in folder with win: `dir`, mac: `ls` / `ls -la`
