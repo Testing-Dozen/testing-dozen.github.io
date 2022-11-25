@@ -87,32 +87,32 @@ Recommended readings:
 
 Checklist to get tooling installed:
   * install vscode (win/mac: download and install) -> see it starts
-  * verify what is installed from vscode command line: ´git --version´, win: ´python --version´, mac ´python3 --version´, ´node --version
+  * verify what is installed from vscode terminal: `git --version`, win: `python --version`, mac `python3 --version`, `node --version`
   * install tooling managing programmer tooling on mac: homebrew
-  * install tooling: git (win: download&install, mac: 'brew install git')
-  * install programming languages: python (win: download&install, mac: 'brew install python3.11')
-  * install programming languages: nodejs (win: download&install, mac: 'brew install node'
-  * verify what is installed from vscode command line: 'git --version', 'python --version' 'node --version'
+  * install tooling: git (win: download&install, mac: `brew install git`)
+  * install programming languages: python (win: download&install, mac: `brew install python3.11`)
+  * install programming languages: nodejs (win: download&install, mac: `brew install node`
+  * verify what is installed from vscode terminal: `git --version`, win: `python --version`, mac `python3 --version`, `node --version`
 
 Checklist for further configuring tooling:
   * add local folder and open folder in vscode
   * change terminal on windows: git bash or cmd over powershell
-  * add simple file.py with 'print('whatever')' in it and run it from terminal with 'python file.py'
-  * sandbox your folder as python virtual environment with 'python -m venv .venv'
-  * activate your virtual environment (win: restart terminal, mac: 'source .venv/bin/activate'
-  * install dependencies: pytest (win/mac: 'pip install pytest')
-  * create simple test_file.py with one test method 'def test_method(): pass' 
-  * run tests from terminal with 'pytest test_file.py'
+  * add simple file.py with `print('whatever')` in it and run it from terminal with `python file.py`
+  * sandbox your folder as python virtual environment with `python -m venv .venv`
+  * activate your virtual environment (win: restart terminal, mac: `source .venv/bin/activate`
+  * install dependencies: pytest (win/mac: `pip install pytest`)
+  * create simple test_file.py with one test method `def test_method(): pass` 
+  * run tests from terminal with `pytest test_file.py`
   * define pytest as test framework for test lab in vscode to see test_files and test_method() in runner
-  * create requirements.txt file and write in dependencies, each on own line: 'pytest', 'playwright', 'pytest-playwright'
-  * install repo dependencies based on requirements.txt with 'pip install -r requirements.txt'
+  * create requirements.txt file and write in dependencies, each on own line: `pytest`, `playwright`, `pytest-playwright`
+  * install repo dependencies based on requirements.txt with `pip install -r requirements.txt`
   * clone a project from github and open that folder in vscode, sandbox with virtual environment as before
   * make changes in files, try commit&sync in vscode
   * to commit successfully, define git.name and git.email from command line
   * to sync successfully, create keys for github access on git bash
 
 Extra practice:
-  *  learn to navigate folders with 'cd ..' and 'cd folder_name' and check files in folder with win: 'dir', mac: 'ls' / 'ls -la'
+  *  learn to navigate folders with `cd ..` and `cd folder_name` and check files in folder with win: `dir`, mac: `ls` / `ls -la`
   *  learn to use autocomplete - write only max 3 letters and allow tab to autocomplete
 
 
