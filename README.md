@@ -105,15 +105,21 @@ Checklist for further configuring tooling:
   * run tests from terminal with `pytest test_file.py`
   * define pytest as test framework for test lab in vscode to see test_files and test_method() in runner
   * create requirements.txt file and write in dependencies, each on own line: `pytest`, `playwright`, `pytest-playwright`
-  * install repo dependencies based on requirements.txt with `pip install -r requirements.txt`
+  * install repo dependencies based on requirements.txt with `pip install -r requirements.txt` on terminal
+  * install playwright node tooling with `playwright install on terminal
   * clone a project from github and open that folder in vscode, sandbox with virtual environment as before
   * make changes in files, try commit&sync in vscode
-  * to commit successfully, define git.name and git.email from command line
+  * to commit successfully, define git.name and git.email from terminal
   * to sync successfully, create keys for github access on git bash
 
 Extra practice:
-  *  learn to navigate folders with `cd ..` and `cd folder_name` and check files in folder with win: `dir`, mac: `ls` / `ls -la`
-  *  learn to use autocomplete - write only max 3 letters and allow tab to autocomplete
+  * learn to navigate folders with `cd ..` and `cd folder_name` and check files in folder with win: `dir`, mac: `ls` / `ls -la`
+  * learn to use autocomplete - write only max 3 letters and allow tab to autocomplete
+ 
+Extra test playwright operational without sample project:
+  * create test_playwright.py -file with `from playwright_sync_api import Page` and `def test_pw(page: Page):` and `page.goto("https://exploratorytestingacademy.com")` each on own line as the skeleton test case
+  * run tests `pytest --headed test_playwright.py`
+  * create pytest.ini -file with contents `[pytest]` and `addopts = --headed --browser chromium --slowmo 2000` to continuously run tests showing the browser, using chromium and slowing steps by 2 seconds
 
 
 ## Targeted Skills
