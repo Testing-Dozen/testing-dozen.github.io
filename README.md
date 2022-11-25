@@ -87,7 +87,7 @@ Recommended readings:
 
 Checklist to get tooling installed:
   * install vscode (win/mac: download and install) -> see it starts
-  * verify what is installed from vscode command line: 'git --version', win: 'python --version', mac 'python3 --version', 'node --version'
+  * verify what is installed from vscode command line: ´git --version´, win: ´python --version´, mac ´python3 --version´, ´node --version
   * install tooling managing programmer tooling on mac: homebrew
   * install tooling: git (win: download&install, mac: 'brew install git')
   * install programming languages: python (win: download&install, mac: 'brew install python3.11')
