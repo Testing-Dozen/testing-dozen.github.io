@@ -84,7 +84,7 @@ Recommended readings:
   * [QA Engineer Roadmap - conceptual learning map](https://roadmap.sh/qa)
   * [Computing tools for CS studies course material](https://tkt-lapio.github.io/en/)
 
-# Session 2.1 - Installing your dev environment
+### Session 2.1 - Installing your dev environment
 
 Checklist to get tooling installed:
   * install vscode (win/mac: download and install) -> see it starts
@@ -122,6 +122,33 @@ Extra test playwright operational without sample project:
   * run tests `pytest --headed test_playwright.py`
   * create pytest.ini -file with contents `[pytest]` and `addopts = --headed --browser chromium --slowmo 2000` to continuously run tests showing the browser, using chromium and slowing steps by 2 seconds
 
+### Session 3: Discovering information
+
+Targeted Capability:
+  * Extending inputs to find bugs
+  * Increased comfort with editing automated tests to extend with data samples
+  
+Topics:
+  * Testing as discovery
+  * Basic pytest-bdd in gherkin + pytest + playwright
+  * Bug and other words that mean almost the same
+
+![Concept summary](https://github.com/Testing-Dozen/testing-dozen.github.io/blob/main/Session3-concepts.png?raw=true)
+
+Target app:
+  * [Eprimer app as test target](https://www.exploratorytestingacademy.com/app/)
+
+Gist of what session produced:
+  * [Gist of session 3 tests](https://gist.github.com/maaretp/3fa7ac39b5ef33c0c48f9184bd201c81)
+  
+Homework: 
+  * Think about how to reveal more bugs - preview 'known bugs' and think about how you could find them
+
+![Known Bugs](https://github.com/Testing-Dozen/testing-dozen.github.io/blob/main/Known-Bugs.png?raw=true)
+
+Recommended readings: 
+  * [Playwright API](https://playwright.dev/python/docs/api/class-playwright) 
+  * [James Lyndsay's Raster Reveal](https://www.workroom-productions.com/raster-reveal/)
 
 ## Targeted Skills
 
