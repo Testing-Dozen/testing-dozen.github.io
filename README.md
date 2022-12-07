@@ -161,6 +161,9 @@ Topics:
    * Modeling, inputs and outputs
    * Test environment, test target readiness / availability
    * Exploratory testing, scale from technique to approach
+   
+![Black-Box Testing](https://github.com/Testing-Dozen/testing-dozen.github.io/blob/main/BlackBoxTesting.png?raw=true)
+
 
 Target app: 
    * https://chat.openai.com/chat
