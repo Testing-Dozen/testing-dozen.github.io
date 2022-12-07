@@ -149,6 +149,26 @@ Homework:
 Recommended readings: 
   * [Playwright API](https://playwright.dev/python/docs/api/class-playwright) 
   * [James Lyndsay's Raster Reveal](https://www.workroom-productions.com/raster-reveal/)
+  
+### Session 4: Black-box testing AI text generator
+
+Targeted Capability:
+   * Learning about an entirely different type of system (text generator not a search engine) 
+   * High level idea of ML in software systems
+
+Topics:
+   * Black-box testing
+   * Modeling, inputs and outputs
+   * Test environment, test target readiness / availability
+   * Exploratory testing, scale from technique to approach
+
+Target app: 
+   * https://chat.openai.com/chat
+   
+Model of testing the session produced: 
+
+![Model of testing](https://github.com/Testing-Dozen/testing-dozen.github.io/blob/main/ModelingChatGPT.png?raw=true)
+
 
 ## Targeted Skills
 
