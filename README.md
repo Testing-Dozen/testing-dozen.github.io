@@ -167,7 +167,7 @@ Target app:
    
 Model of testing the session produced: 
 
-![Model of testing](https://github.com/Testing-Dozen/testing-dozen.github.io/blob/main/ModelingChatGPT.png?raw=true)
+![Model of testing](https://github.com/Testing-Dozen/testing-dozen.github.io/blob/main/Modeling-ChatGPT.png?raw=true)
 
 
 ## Targeted Skills
