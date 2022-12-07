@@ -164,6 +164,7 @@ Topics:
    
 ![Black-Box Testing](https://github.com/Testing-Dozen/testing-dozen.github.io/blob/main/BlackBoxTesting.png?raw=true)
 
+![Session4 Concepts](https://github.com/Testing-Dozen/testing-dozen.github.io/blob/main/Session4-Concept.png?raw=true)
 
 Target app: 
    * https://chat.openai.com/chat
