@@ -173,6 +173,33 @@ Model of testing the session produced:
 
 ![Model of testing](https://github.com/Testing-Dozen/testing-dozen.github.io/blob/main/Modeling-ChatGPT.png?raw=true)
 
+### Session 5: Reproducing bugs based on other people's notes
+
+Targeted Capability:
+   * Understanding that reporting matters on ease of seeing what you think is a problem
+   * Reproducing a problem and reporting a problem
+   
+Topics: 
+   * Reproduce from other people's notes - why customers reporting and tester's reporting is different
+   * A sample bug report
+   * Reproducing from a known list of bugs enables finding bugs outside the list
+   * Invisible ink of relevant results from testing - usually we don't have a list of bugs but must imagine one
+   * Bug is anything that might bug a user / other stakeholders
+
+![Sample bug report](https://github.com/Testing-Dozen/testing-dozen.github.io/blob/main/Sample-bug-report.png?raw=true)
+
+Target app:
+  * [Eprimer app as test target](https://www.exploratorytestingacademy.com/app/)
+  * [Older version of app as test target](https://maaretp.com/app/)
+
+Listing of what reproduced issues session produced:
+
+![Results with respect to list of known issues, extended](https://github.com/Testing-Dozen/testing-dozen.github.io/blob/main/bug-list-session5.png?raw=true)
+
+![Results in numbers out of 28 known issues in small groups](https://github.com/Testing-Dozen/testing-dozen.github.io/blob/main/Repro-60min-result.png?raw=true)
+
+Homework: 
+   * Update statistics on what you could reproduce for next time demo of bugs around the group
 
 ## Targeted Skills
 
