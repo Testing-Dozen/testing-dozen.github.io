@@ -209,6 +209,7 @@ Targeted Capability:
    * Prioritizing conversations
 
 Topics:
+  * Crowdsourcing as practice possibility (Testlio, Utest)
   * Ensure everyone in group has seen and understood the versatility of "bugs"
   * Bugs as anything that might bug a user - improvement suggestions, missing features, implementation mistakes
   * Research while testing, grounding with priority: fixing relevance of the project
