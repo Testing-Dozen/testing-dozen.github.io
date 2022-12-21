@@ -209,7 +209,7 @@ Targeted Capability:
    * Prioritizing conversations
 
 Topics:
-  * Crowdsourcing as practice possibility (Testlio, Utest)
+  * Crowdsourcing as practice possibility eg. [Testlio](https://testlio.com), [Utest](https://www.utest.com)) and bug bounties for security bugs esim. [Hackr](https://www.hackr.fi)
   * Ensure everyone in group has seen and understood the versatility of "bugs"
   * Bugs as anything that might bug a user - improvement suggestions, missing features, implementation mistakes
   * Research while testing, grounding with priority: fixing relevance of the project
