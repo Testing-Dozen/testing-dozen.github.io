@@ -201,6 +201,22 @@ Listing of what reproduced issues session produced:
 Homework: 
    * Update statistics on what you could reproduce for next time demo of bugs around the group
 
+### Session 6: Bug Demos and Priorization
+
+Targeted Capability:
+   * Show and explain a problem
+   * A tour of all (known) issues 
+   * Prioritizing conversations
+   
+Topics: 
+  * Ensure everyone in group has seen and understood the versatility of "bugs"
+  * Bugs as anything that might bug a user - improvement suggestions, missing features, implementation mistakes
+  * Research while testing, grounding with priority: fixing relevance of the project
+  * Completing round of problems with this application
+  
+ [Bug list of known symptoms, new identified symptoms and cleaning up to a little clearer list and bug reports.](eprimer_buglist.md) 
+
+
 ## Targeted Skills
 
 Can do the testing job? 
