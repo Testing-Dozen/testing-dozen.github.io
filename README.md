@@ -19,7 +19,7 @@
   * Sanna Tawah @nanahamjam
   * Martha  @Lopezmartha
   * Sergey   @embedded-sergey
-  
+
 ## Sessions as those emerge
 
 ### Session 1: Introductions and Github portfolio starter
@@ -146,14 +146,14 @@ Homework:
 
 ![Known Bugs](https://github.com/Testing-Dozen/testing-dozen.github.io/blob/main/Known-Bugs.png?raw=true)
 
-Recommended readings: 
-  * [Playwright API](https://playwright.dev/python/docs/api/class-playwright) 
+Recommended readings:
+  * [Playwright API](https://playwright.dev/python/docs/api/class-playwright)
   * [James Lyndsay's Raster Reveal](https://www.workroom-productions.com/raster-reveal/)
-  
+
 ### Session 4: Black-box testing AI text generator
 
 Targeted Capability:
-   * Learning about an entirely different type of system (text generator not a search engine) 
+   * Learning about an entirely different type of system (text generator not a search engine)
    * High level idea of ML in software systems
 
 Topics:
@@ -161,15 +161,15 @@ Topics:
    * Modeling, inputs and outputs
    * Test environment, test target readiness / availability
    * Exploratory testing, scale from technique to approach
-   
+
 ![Black-Box Testing](https://github.com/Testing-Dozen/testing-dozen.github.io/blob/main/BlackBoxTesting.png?raw=true)
 
 ![Session4 Concepts](https://github.com/Testing-Dozen/testing-dozen.github.io/blob/main/Session4-Concept.png?raw=true)
 
-Target app: 
+Target app:
    * https://chat.openai.com/chat
-   
-Model of testing the session produced: 
+
+Model of testing the session produced:
 
 ![Model of testing](https://github.com/Testing-Dozen/testing-dozen.github.io/blob/main/Modeling-ChatGPT.png?raw=true)
 
@@ -205,21 +205,23 @@ Homework:
 
 Targeted Capability:
    * Show and explain a problem
-   * A tour of all (known) issues 
+   * A tour of all (known) issues
    * Prioritizing conversations
-   
-Topics: 
+
+Topics:
   * Ensure everyone in group has seen and understood the versatility of "bugs"
   * Bugs as anything that might bug a user - improvement suggestions, missing features, implementation mistakes
   * Research while testing, grounding with priority: fixing relevance of the project
   * Completing round of problems with this application
-  
- [Bug list of known symptoms, new identified symptoms and cleaning up to a little clearer list and bug reports.](eprimer_buglist.md) 
+
+ [Bug list of known symptoms, new identified symptoms and cleaning up to a little clearer list and bug reports.](eprimer_buglist.md)
+
+ ![Results with respect to list of known issues, extended with bugs demoed student-driven](https://github.com/Testing-Dozen/testing-dozen.github.io/blob/main/bug-list-session6.png?raw=true)
 
 
 ## Targeted Skills
 
-Can do the testing job? 
+Can do the testing job?
 
   * Can look at an application and make sense of it
   * Can create UI and API tests on it (using programming language)
@@ -236,5 +238,5 @@ Can do the testing job?
   * Can install software on various OSs, configure and operate it
   * Can say when they are unsure and actively seek understanding
   * Can create models and use them to derive coverage
-  * Can communicate results and status 
+  * Can communicate results and status
   * Can figure out systems of systems impact on testing
