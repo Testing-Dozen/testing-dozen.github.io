@@ -219,6 +219,31 @@ Topics:
 
  ![Results with respect to list of known issues, extended with bugs demoed student-driven](https://github.com/Testing-Dozen/testing-dozen.github.io/blob/main/bug-list-session6.png?raw=true)
 
+### Session 7: WebApps with APIs
+
+Targeted Capability:
+  * Listing functionalities not only bugs
+  * Analysis: function and structure
+
+Topics: 
+  * Ensemble exploratory testing, emergent constraints
+  * Functionality and bug note listing
+  * Local and hosted test environments
+  * Intro to REST APIs
+  * Debugging in IDE
+  * Python requests library
+
+Target App:
+  * Restful Booker Platform by Mark Winteringham 
+    * [Code and java test samples](https://github.com/mwinteringham/restful-booker-platform]
+    * [Hosted test version with limitations](https://automationintesting.online)
+  * Our ensemble notes [https://github.com/Testing-Dozen/dozen_restful_booker](https://github.com/Testing-Dozen/dozen_restful_booker)
+
+Recommended materials:
+  * [Video on exploratory testing of *this* API](https://www.youtube.com/watch?v=FfGQX6cSf6o) 
+
+Homework:
+  * Inspect in browser, network tab and requests and responses
 
 ## Targeted Skills
 
