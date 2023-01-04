@@ -241,6 +241,7 @@ Target App:
 
 Recommended materials:
   * [Video on exploratory testing of *this* API](https://www.youtube.com/watch?v=FfGQX6cSf6o) 
+  * [Mark's book, Testing Web APIs](https://www.amazon.com/Testing-Web-APIs-Mark-Winteringham/dp/1617299537) 
 
 Homework:
   * Inspect in browser, network tab and requests and responses
