@@ -246,6 +246,25 @@ Recommended materials:
 Homework:
   * Inspect in browser, network tab and requests and responses
 
+### Session 8: GET Endpoint with 200 response and contents
+
+Targeted Capability:
+  * First basic API test for GET endpoint on local and remote deployments
+  
+ Topics: 
+  * Localhost and hosted on some computer (cloud) deployments
+  * Unauthenticated endpoints with requests-library
+  * GET and 200 response, verifying whole, contains, element contains and element exists conditions
+  * Setup and teardown with pytest fixtures
+  
+Target App:
+  * Restful Booker Platform by Mark Winteringham 
+  
+![Concepts](https://github.com/Testing-Dozen/testing-dozen.github.io/blob/main/Session8.png?raw=true)
+
+Homework: 
+  * Create GET and POST calls on the front page APIs that are unauthenticated
+
 ## Targeted Skills
 
 Can do the testing job?
