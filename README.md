@@ -260,7 +260,7 @@ Targeted Capability:
 Target App:
   * Restful Booker Platform by Mark Winteringham 
   
-![Concepts](https://github.com/Testing-Dozen/testing-dozen.github.io/blob/main/Session8.png?raw=true)
+![Concepts](https://github.com/Testing-Dozen/testing-dozen.github.io/blob/main/session8.png?raw=true)
 
 Homework: 
   * Create GET and POST calls on the front page APIs that are unauthenticated
