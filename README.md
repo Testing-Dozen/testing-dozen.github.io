@@ -263,7 +263,7 @@ Target App:
 ![Concepts](https://github.com/Testing-Dozen/testing-dozen.github.io/blob/main/session8.png?raw=true)
 
 Our Tests:
-  * (https://github.com/Testing-Dozen/dozen_restful_booker)[https://github.com/Testing-Dozen/dozen_restful_booker]
+  * [https://github.com/Testing-Dozen/dozen_restful_booker](https://github.com/Testing-Dozen/dozen_restful_booker)
 
 Homework: 
   * Create GET and POST calls on the front page APIs that are unauthenticated
