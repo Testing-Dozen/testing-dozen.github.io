@@ -1,7 +1,7 @@
 # Testing Dozen - a Testing Specialist training/mentoring program
 
 **Testing Dozen** is:
-  * Testing Specialist training / mentoring program run by Maaret Pyhäjärvi
+  * Testing Specialist training / mentoring program run by Maaret Pyhäjärvi, co-facilitated by Mirja Pyhäjärvi
   * In Finland for people seeking testing jobs in Finland
   * Pilot batch runs 6 months from November 16th, 2022
 
