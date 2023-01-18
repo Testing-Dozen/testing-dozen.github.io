@@ -274,19 +274,20 @@ Targeted Capability:
   * Exploratory unit testing applied on roman numerals function beyond most obvious tests
  
 Topics: 
+  * Applying positions as trainee / junior test engineer
   * pytest foundations: test naming, asserts, approvals, parametrizing, conftest
   * Testing fundamentals: coverage, results, oracles
   
 Target App: 
   * Github Copilot generated roman numerals function
-  * Available at lines 1-16 on (https://github.com/exploratory-testing-academy/do-a-thing-and-call-it-foo-solution/blob/main/important_program.py)[important_program.py]
+  * Available at lines 1-16 on [https://github.com/exploratory-testing-academy/do-a-thing-and-call-it-foo-solution/blob/main/important_program.py](important_program.py)
   
 Our tests: 
-  * (https://github.com/exploratory-testing-academy/do-a-thing-and-call-it-foo-solution/)[https://github.com/exploratory-testing-academy/do-a-thing-and-call-it-foo-solution/]
+  * [https://github.com/exploratory-testing-academy/do-a-thing-and-call-it-foo-solution/](https://github.com/exploratory-testing-academy/do-a-thing-and-call-it-foo-solution/)
 
 Homework: 
   * Study traditional and simplified roman numerals in excel
-  * Review code for (Excel and Know the Romans -page reference implementations)[https://github.com/exploratory-testing-academy/do-a-thing-and-call-it-foo-solution/tree/main/helpers]
+  * Review code for [Excel and Know the Romans -page reference implementations](https://github.com/exploratory-testing-academy/do-a-thing-and-call-it-foo-solution/tree/main/helpers)
 
 ## Targeted Skills
 
