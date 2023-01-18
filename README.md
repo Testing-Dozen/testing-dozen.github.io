@@ -289,6 +289,11 @@ Homework:
   * Study traditional and simplified roman numerals in excel
   * Review code for [Excel and Know the Romans -page reference implementations](https://github.com/exploratory-testing-academy/do-a-thing-and-call-it-foo-solution/tree/main/helpers)
 
+Recommended Readings: 
+  * [How to Make Your VSCode Sparkle](https://aboutmonica.com/blog/how-to-make-your-vs-code-sparkle/) 
+  * VSCode extensions: [Mermaid theme](https://marketplace.visualstudio.com/items?itemName=StephKeys.mermaid-theme)
+  * VSCode extensions: [Power mode](https://marketplace.visualstudio.com/items?itemName=hoovercj.vscode-power-mode)
+
 ## Targeted Skills
 
 Can do the testing job?
