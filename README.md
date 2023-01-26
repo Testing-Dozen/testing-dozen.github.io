@@ -173,6 +173,9 @@ Model of testing the session produced:
 
 ![Model of testing](https://github.com/Testing-Dozen/testing-dozen.github.io/blob/main/Modeling-ChatGPT.png?raw=true)
 
+Recommended materials: 
+   * [ChatGPT Cheat Sheet](https://drive.google.com/file/d/1UOfN0iB_A0rEGYc2CbYnpIF44FupQn2I/view)
+
 ### Session 5: Reproducing bugs based on other people's notes
 
 Targeted Capability:
