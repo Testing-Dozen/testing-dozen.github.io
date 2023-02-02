@@ -271,7 +271,7 @@ Our Tests:
 Homework: 
   * Create GET and POST calls on the front page APIs that are unauthenticated
   
-## Session 9: Strengthen pytest foundations
+### Session 9: Strengthen pytest foundations
 
 Targeted Capability: 
   * Exploratory unit testing applied on roman numerals function beyond most obvious tests
@@ -296,6 +296,34 @@ Recommended Readings:
   * [How to Make Your VSCode Sparkle](https://aboutmonica.com/blog/how-to-make-your-vs-code-sparkle/) 
   * VSCode extensions: [Mermaid theme](https://marketplace.visualstudio.com/items?itemName=StephKeys.mermaid-theme)
   * VSCode extensions: [Power mode](https://marketplace.visualstudio.com/items?itemName=hoovercj.vscode-power-mode)
+  
+### Session 10: ApprovalTests, SoftAssertions, Snapshots and Properties
+
+Targeted Capability: 
+  * Using earlier tests to remember earlier testing
+  * Test styles beyond examples of asserts
+ 
+Topics: 
+  * ApprovalTests - Run (red), Approve, Run (green), and combinationapprovals
+  * SoftAssertions - Collating multiple assertion results instead of failing on first
+  * Snapshots - Run (save), Run (green), fail when output changes
+  * Properties, hypothesis library - programmatic rules, generated falsifiable hypothesis tests
+  * xfail-decorator - expecting a failure
+  
+Target App: 
+  * Github Copilot generated roman numerals function
+  * Available as [https://github.com/exploratory-testing-academy/do-a-thing-and-call-it-foo-solution/blob/main/important_program.py](important_program.py)
+  
+Our tests: 
+  * [https://github.com/exploratory-testing-academy/do-a-thing-and-call-it-foo-solution/](https://github.com/exploratory-testing-academy/do-a-thing-and-call-it-foo-solution/)
+  
+![24 tests](https://github.com/Testing-Dozen/testing-dozen.github.io/blob/main/session10-results.png?raw=true)
+
+Recommended Reading: 
+  * [What is ApprovalTesting](https://www.methodsandtools.com/archive/approvaltest.php)
+
+Homework:
+  * Study restful booker API testing project current state
 
 ## Targeted Skills
 
