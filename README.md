@@ -1,9 +1,10 @@
 # Testing Dozen - a Testing Specialist training/mentoring program
 
 **Testing Dozen** is:
-  * Testing Specialist training / mentoring program run by Maaret Pyhäjärvi, co-facilitated by Mirja Pyhäjärvi
-  * In Finland for people seeking testing jobs in Finland
-  * Pilot batch runs 6 months from November 16th, 2022
+
+* Testing Specialist training / mentoring program run by Maaret Pyhäjärvi, co-facilitated by Mirja Pyhäjärvi
+* In Finland for people seeking testing jobs in Finland
+* Pilot batch runs 6 months from November 16th, 2022
 
 ## Participants
 
@@ -198,8 +199,9 @@ Model of testing the session produced:
 
 ![Model of testing](https://github.com/Testing-Dozen/testing-dozen.github.io/blob/main/Modeling-ChatGPT.png?raw=true)
 
-Recommended materials: 
-   * [ChatGPT Cheat Sheet](https://drive.google.com/file/d/1UOfN0iB_A0rEGYc2CbYnpIF44FupQn2I/view)
+Recommended materials:
+
+* [ChatGPT Cheat Sheet](https://drive.google.com/file/d/1UOfN0iB_A0rEGYc2CbYnpIF44FupQn2I/view)
 
 ### Session 5: Reproducing bugs based on other people's notes
 
@@ -256,105 +258,127 @@ Topics:
 ### Session 7: WebApps with APIs
 
 Targeted Capability:
-  * Listing functionalities not only bugs
-  * Analysis: function and structure
 
-Topics: 
-  * Ensemble exploratory testing, emergent constraints
-  * Functionality and bug note listing
-  * Local and hosted test environments
-  * Intro to REST APIs
-  * Debugging in IDE
-  * Python requests library
+* Listing functionalities not only bugs
+* Analysis: function and structure
+
+Topics:
+
+* Ensemble exploratory testing, emergent constraints
+* Functionality and bug note listing
+* Local and hosted test environments
+* Intro to REST APIs
+* Debugging in IDE
+* Python requests library
 
 Target App:
-  * Restful Booker Platform by Mark Winteringham 
-    * [Code and java test samples](https://github.com/mwinteringham/restful-booker-platform]
-    * [Hosted test version with limitations](https://automationintesting.online)
-  * Our ensemble notes [https://github.com/Testing-Dozen/dozen_restful_booker](https://github.com/Testing-Dozen/dozen_restful_booker)
+
+* Restful Booker Platform by Mark Winteringham
+  * [Code and java test samples](https://github.com/mwinteringham/restful-booker-platform]
+  * [Hosted test version with limitations](https://automationintesting.online)
+* Our ensemble notes [https://github.com/Testing-Dozen/dozen_restful_booker](https://github.com/Testing-Dozen/dozen_restful_booker)
 
 Recommended materials:
-  * [Video on exploratory testing of *this* API](https://www.youtube.com/watch?v=FfGQX6cSf6o) 
-  * [Mark's book, Testing Web APIs](https://www.amazon.com/Testing-Web-APIs-Mark-Winteringham/dp/1617299537) 
+
+* [Video on exploratory testing of *this* API](https://www.youtube.com/watch?v=FfGQX6cSf6o)
+* [Mark's book, Testing Web APIs](https://www.amazon.com/Testing-Web-APIs-Mark-Winteringham/dp/1617299537)
 
 Homework:
-  * Inspect in browser, network tab and requests and responses
+
+* Inspect in browser, network tab and requests and responses
 
 ### Session 8: GET Endpoint with 200 response and contents
 
 Targeted Capability:
-  * First basic API test for GET endpoint on local and remote deployments
+
+* First basic API test for GET endpoint on local and remote deployments
   
- Topics: 
-  * Localhost and hosted on some computer (cloud) deployments
-  * Unauthenticated endpoints with requests-library
-  * GET and 200 response, verifying whole, contains, element contains and element exists conditions
-  * Setup and teardown with pytest fixtures
+ Topics:
+
+* Localhost and hosted on some computer (cloud) deployments
+* Unauthenticated endpoints with requests-library
+* GET and 200 response, verifying whole, contains, element contains and element exists conditions
+* Setup and teardown with pytest fixtures
   
 Target App:
-  * Restful Booker Platform by Mark Winteringham 
+
+* Restful Booker Platform by Mark Winteringham
   
 ![Concepts](https://github.com/Testing-Dozen/testing-dozen.github.io/blob/main/session8.png?raw=true)
 
 Our Tests:
-  * [https://github.com/Testing-Dozen/dozen_restful_booker](https://github.com/Testing-Dozen/dozen_restful_booker)
 
-Homework: 
-  * Create GET and POST calls on the front page APIs that are unauthenticated
+* [https://github.com/Testing-Dozen/dozen_restful_booker](https://github.com/Testing-Dozen/dozen_restful_booker)
+
+Homework:
+
+* Create GET and POST calls on the front page APIs that are unauthenticated
   
 ### Session 9: Strengthen pytest foundations
 
-Targeted Capability: 
-  * Exploratory unit testing applied on roman numerals function beyond most obvious tests
- 
-Topics: 
-  * Applying positions as trainee / junior test engineer
-  * pytest foundations: test naming, asserts, approvals, parametrizing, conftest
-  * Testing fundamentals: coverage, results, oracles
-  
-Target App: 
-  * Github Copilot generated roman numerals function
-  * Available at lines 1-16 on [https://github.com/exploratory-testing-academy/do-a-thing-and-call-it-foo-solution/blob/main/important_program.py](important_program.py)
-  
-Our tests: 
-  * [https://github.com/exploratory-testing-academy/do-a-thing-and-call-it-foo-solution/](https://github.com/exploratory-testing-academy/do-a-thing-and-call-it-foo-solution/)
+Targeted Capability:
 
-Homework: 
-  * Study traditional and simplified roman numerals in excel
-  * Review code for [Excel and Know the Romans -page reference implementations](https://github.com/exploratory-testing-academy/do-a-thing-and-call-it-foo-solution/tree/main/helpers)
+* Exploratory unit testing applied on roman numerals function beyond most obvious tests
 
-Recommended Readings: 
-  * [How to Make Your VSCode Sparkle](https://aboutmonica.com/blog/how-to-make-your-vs-code-sparkle/) 
-  * VSCode extensions: [Mermaid theme](https://marketplace.visualstudio.com/items?itemName=StephKeys.mermaid-theme)
-  * VSCode extensions: [Power mode](https://marketplace.visualstudio.com/items?itemName=hoovercj.vscode-power-mode)
+Topics:
+
+* Applying positions as trainee / junior test engineer
+* pytest foundations: test naming, asserts, approvals, parametrizing, conftest
+* Testing fundamentals: coverage, results, oracles
+  
+Target App:
+
+* Github Copilot generated roman numerals function
+* Available at lines 1-16 on [https://github.com/exploratory-testing-academy/do-a-thing-and-call-it-foo-solution/blob/main/important_program.py](important_program.py)
+  
+Our tests:
+
+* [https://github.com/exploratory-testing-academy/do-a-thing-and-call-it-foo-solution/](https://github.com/exploratory-testing-academy/do-a-thing-and-call-it-foo-solution/)
+
+Homework:
+
+* Study traditional and simplified roman numerals in excel
+* Review code for [Excel and Know the Romans -page reference implementations](https://github.com/exploratory-testing-academy/do-a-thing-and-call-it-foo-solution/tree/main/helpers)
+
+Recommended Readings:
+
+* [How to Make Your VSCode Sparkle](https://aboutmonica.com/blog/how-to-make-your-vs-code-sparkle/)
+* VSCode extensions: [Mermaid theme](https://marketplace.visualstudio.com/items?itemName=StephKeys.mermaid-theme)
+* VSCode extensions: [Power mode](https://marketplace.visualstudio.com/items?itemName=hoovercj.vscode-power-mode)
   
 ### Session 10: ApprovalTests, SoftAssertions, Snapshots and Properties
 
-Targeted Capability: 
-  * Using earlier tests to remember earlier testing
-  * Test styles beyond examples of asserts
- 
-Topics: 
-  * ApprovalTests - Run (red), Approve, Run (green), and combinationapprovals
-  * SoftAssertions - Collating multiple assertion results instead of failing on first
-  * Snapshots - Run (save), Run (green), fail when output changes
-  * Properties, hypothesis library - programmatic rules, generated falsifiable hypothesis tests
-  * xfail-decorator - expecting a failure
+Targeted Capability:
+
+* Using earlier tests to remember earlier testing
+* Test styles beyond examples of asserts
+
+Topics:
+
+* ApprovalTests - Run (red), Approve, Run (green), and combinationapprovals
+* SoftAssertions - Collating multiple assertion results instead of failing on first
+* Snapshots - Run (save), Run (green), fail when output changes
+* Properties, hypothesis library - programmatic rules, generated falsifiable hypothesis tests
+* xfail-decorator - expecting a failure
   
-Target App: 
-  * Github Copilot generated roman numerals function
-  * Available as [https://github.com/exploratory-testing-academy/do-a-thing-and-call-it-foo-solution/blob/main/important_program.py](important_program.py)
+Target App:
+
+* Github Copilot generated roman numerals function
+* Available as [https://github.com/exploratory-testing-academy/do-a-thing-and-call-it-foo-solution/blob/main/important_program.py](important_program.py)
   
-Our tests: 
-  * [https://github.com/exploratory-testing-academy/do-a-thing-and-call-it-foo-solution/](https://github.com/exploratory-testing-academy/do-a-thing-and-call-it-foo-solution/)
+Our tests:
+
+* [https://github.com/exploratory-testing-academy/do-a-thing-and-call-it-foo-solution/](https://github.com/exploratory-testing-academy/do-a-thing-and-call-it-foo-solution/)
   
 ![24 tests](https://github.com/Testing-Dozen/testing-dozen.github.io/blob/main/session10-results.png?raw=true)
 
-Recommended Reading: 
-  * [What is ApprovalTesting](https://www.methodsandtools.com/archive/approvaltest.php)
+Recommended Reading:
+
+* [What is ApprovalTesting](https://www.methodsandtools.com/archive/approvaltest.php)
 
 Homework:
-  * Study restful booker API testing project current state
+
+* Study restful booker API testing project current state
 
 ## Targeted Skills
 
