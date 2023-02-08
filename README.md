@@ -394,6 +394,7 @@ Topics:
 * Authenticated endpoints with requests-library using pytest fixtures
 * GET, POST, PUT and 200 vs. 400 response
 * 'docker-compose up' and 'docker-compose down' to run test target on localhost
+* Reading API tests in Java to turn same tests to Python
 
 Target App:
 
