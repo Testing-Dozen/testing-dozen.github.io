@@ -47,7 +47,7 @@ Homework:
 
 * Improve this page through pull requests
 * Install Git and VSCode
-  
+
 Recommended reading:
 
 * [Git tutorial](https://www.w3schools.com/git/)
@@ -61,7 +61,7 @@ Targeted Capability:
 
 * Writing basic tests for a web app with Python and Playwright
 * Exploring through automation to find bugs
-  
+
 Topics:
 
 * Contemporary exploratory testing with automationist's gambit
@@ -79,7 +79,7 @@ Target app:
 Gist of what session produced:
 
 * [Gist of session 2 tests](https://gist.github.com/maaretp/cfd3a9097abbefd7cb9683d6f9e26dec)
-  
+
 Homework:
 
 * Try to get python-pytest-playwright tests to run on your computer
@@ -145,7 +145,7 @@ Targeted Capability:
 
 * Extending inputs to find bugs
 * Increased comfort with editing automated tests to extend with data samples
-  
+
 Topics:
 
 * Testing as discovery
@@ -161,7 +161,7 @@ Target app:
 Gist of what session produced:
 
 * [Gist of session 3 tests](https://gist.github.com/maaretp/3fa7ac39b5ef33c0c48f9184bd201c81)
-  
+
 Homework:
 
 * Think about how to reveal more bugs - preview 'known bugs' and think about how you could find them
@@ -403,7 +403,6 @@ Target App:
 Our Tests:
 
 * [https://github.com/Testing-Dozen/dozen_restful_booker](https://github.com/Testing-Dozen/dozen_restful_booker)
-
 
 Homework:
 
