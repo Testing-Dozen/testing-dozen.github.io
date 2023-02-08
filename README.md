@@ -292,18 +292,18 @@ Homework:
 Targeted Capability:
 
 * First basic API test for GET endpoint on local and remote deployments
-  
+
  Topics:
 
 * Localhost and hosted on some computer (cloud) deployments
 * Unauthenticated endpoints with requests-library
 * GET and 200 response, verifying whole, contains, element contains and element exists conditions
 * Setup and teardown with pytest fixtures
-  
+
 Target App:
 
 * Restful Booker Platform by Mark Winteringham
-  
+
 ![Concepts](https://github.com/Testing-Dozen/testing-dozen.github.io/blob/main/session8.png?raw=true)
 
 Our Tests:
@@ -313,7 +313,7 @@ Our Tests:
 Homework:
 
 * Create GET and POST calls on the front page APIs that are unauthenticated
-  
+
 ### Session 9: Strengthen pytest foundations
 
 Targeted Capability:
@@ -325,12 +325,12 @@ Topics:
 * Applying positions as trainee / junior test engineer
 * pytest foundations: test naming, asserts, approvals, parametrizing, conftest
 * Testing fundamentals: coverage, results, oracles
-  
+
 Target App:
 
 * Github Copilot generated roman numerals function
 * Available at lines 1-16 on [https://github.com/exploratory-testing-academy/do-a-thing-and-call-it-foo-solution/blob/main/important_program.py](important_program.py)
-  
+
 Our tests:
 
 * [https://github.com/exploratory-testing-academy/do-a-thing-and-call-it-foo-solution/](https://github.com/exploratory-testing-academy/do-a-thing-and-call-it-foo-solution/)
@@ -345,7 +345,7 @@ Recommended Readings:
 * [How to Make Your VSCode Sparkle](https://aboutmonica.com/blog/how-to-make-your-vs-code-sparkle/)
 * VSCode extensions: [Mermaid theme](https://marketplace.visualstudio.com/items?itemName=StephKeys.mermaid-theme)
 * VSCode extensions: [Power mode](https://marketplace.visualstudio.com/items?itemName=hoovercj.vscode-power-mode)
-  
+
 ### Session 10: ApprovalTests, SoftAssertions, Snapshots and Properties
 
 Targeted Capability:
@@ -360,16 +360,16 @@ Topics:
 * Snapshots - Run (save), Run (green), fail when output changes
 * Properties, hypothesis library - programmatic rules, generated falsifiable hypothesis tests
 * xfail-decorator - expecting a failure
-  
+
 Target App:
 
 * Github Copilot generated roman numerals function
 * Available as [https://github.com/exploratory-testing-academy/do-a-thing-and-call-it-foo-solution/blob/main/important_program.py](important_program.py)
-  
+
 Our tests:
 
 * [https://github.com/exploratory-testing-academy/do-a-thing-and-call-it-foo-solution/](https://github.com/exploratory-testing-academy/do-a-thing-and-call-it-foo-solution/)
-  
+
 ![24 tests](https://github.com/Testing-Dozen/testing-dozen.github.io/blob/main/session10-results.png?raw=true)
 
 Recommended Reading:
@@ -379,6 +379,35 @@ Recommended Reading:
 Homework:
 
 * Study restful booker API testing project current state
+
+### Session 11: From GET to POST and PUT
+
+Targeted Capability:
+
+* Running containerized local environment
+* Creating and using pytest fixtures
+* GET, POST, PUT and authentication in cookies
+
+Topics:
+
+* Starting with someone else's python test project, setting virtual environment and installing dependencies
+* Authenticated endpoints with requests-library using pytest fixtures
+* GET, POST, PUT and 200 vs. 400 response
+* 'docker-compose up' and 'docker-compose down' to run test target on localhost
+
+Target App:
+
+* Restful Booker Platform by Mark Winteringham
+* Code: [https://github.com/mwinteringham/restful-booker-platform](https://github.com/mwinteringham/restful-booker-platform)
+
+Our Tests:
+
+* [https://github.com/Testing-Dozen/dozen_restful_booker](https://github.com/Testing-Dozen/dozen_restful_booker)
+
+
+Homework:
+
+* Pull requests adding more tests for restful booker APIs
 
 ## Targeted Skills
 
