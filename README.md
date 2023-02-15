@@ -409,6 +409,32 @@ Homework:
 
 * Pull requests adding more tests for restful booker APIs
 
+### Session 12: Small group practice on API bug finding
+
+Targeted Capability:
+
+* Finding bugs in APIs
+* Extending set of tests to cover more of the APIs
+
+Topics:
+
+* Small group practice of API tests
+* Creating pull request with new tests
+* Reviewing pull request and merging it
+
+Target App:
+
+* Restful Booker Platform by Mark Winteringham
+* Code: [https://github.com/mwinteringham/restful-booker-platform](https://github.com/mwinteringham/restful-booker-platform)
+
+Our Tests:
+
+* [https://github.com/Testing-Dozen/dozen_restful_booker](https://github.com/Testing-Dozen/dozen_restful_booker)
+
+Homework:
+
+* Pull requests extending and improving structurefor tests of restful booker APIs
+
 ## Targeted Skills
 
 Can do the testing job?
