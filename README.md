@@ -409,7 +409,7 @@ Homework:
 
 * Pull requests adding more tests for restful booker APIs
 
-### Session 12: Small group practice on API bug finding
+### Session 12: Solidify learning with small group practice on API bug finding
 
 Targeted Capability:
 
