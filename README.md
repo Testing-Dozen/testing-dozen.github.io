@@ -436,6 +436,34 @@ Homework:
 
 * Pull requests extending and improving structurefor tests of restful booker APIs
 
+### Session 13: Listing features and browser driver options
+
+Targeted Capability:
+
+* Skills inventory
+* Exploring an application and naming its features
+* Seeing options in browser drivers: playwright and selenium
+
+Topics: 
+
+* Skills inventory, recognizing and naming what skills we have been learning
+* Pair testing an application to name its features
+* Basic test in python+playwright and python+selenium
+* When would you care to drive *real* browsers
+
+Test Target: 
+
+* [To Do MVC JS Vanilla](https://todomvc.com/examples/vanillajs/#/)
+
+Our samples: 
+
+* [Mixed project](https://github.com/Testing-Dozen/todo-mvc-playwright-selenium)
+* [Growing project for playwright](https://github.com/exploratory-testing-academy/todomvc-python-playwright)
+* [Growing project for selenium](https://github.com/exploratory-testing-academy/todomvc-python-selenium)
+
+![Skills inventory check](https://github.com/Testing-Dozen/testing-dozen.github.io/blob/main/Session13-checklist.png?raw=true)
+
+
 ## Targeted Skills
 
 Can do the testing job?
