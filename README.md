@@ -54,6 +54,7 @@ Recommended reading:
 * [Markdown manual](https://www.markdownguide.org/basic-syntax/)
 * [Catalin Pit: How to Create a Kickass GitHub Profile Page](https://catalins.tech/how-to-create-a-kickass-github-profile-page/)
 * [Ship, show ask - branching strategies](https://martinfowler.com/articles/ship-show-ask.html)
+* [Git commit messages](https://cbea.ms/git-commit/)
 
 ### Session 2: Automationist's Gambit
 
