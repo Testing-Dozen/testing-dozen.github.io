@@ -8,19 +8,21 @@
 
 ## Participants
 
-* Aino
 * Svetlana Egorov @SvetlanaS1212
 * Pia @piavesala
 * samuel @samuelnarteyGH @samuelnomis
-* Miia @iammiiam
 * Olga Larintseva @Loranpire
 * Katri Kiero @katrikiero
 * Gold Lola @GoldLola
 * Olayinka  @Olayinka_Dele
-* Hanna @tuutin-t
 * Sanna Tawah @nanahamjam
 * Martha  @Lopezmartha
 * Sergey   @embedded-sergey
+* Miia @iammiiam
+* Aino
+* Hanna @tuutin-t
+
+
 
 ## Sessions as those emerge
 
