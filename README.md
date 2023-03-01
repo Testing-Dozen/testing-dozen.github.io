@@ -447,6 +447,7 @@ Targeted Capability:
 Topics: 
 
 * Skills inventory, recognizing and naming what skills we have been learning
+* Testing when quality is not inherently bad
 * Pair testing an application to name its features
 * Basic test in python+playwright and python+selenium
 * When would you care to drive *real* browsers
@@ -454,6 +455,13 @@ Topics:
 Test Target: 
 
 * [To Do MVC JS Vanilla](https://todomvc.com/examples/vanillajs/#/)
+
+Bugs: 
+
+* Chosen colors on the app make recognizing elements and seeing texts difficult
+* Instructions to use app in small font and located at end of list while there is space to display them more prominently
+* Selecting all tasks functionality icon is not clearly communicating its existence
+* 404 on favicon, no favicon defined and is visible as error in devtools
 
 Our samples: 
 
