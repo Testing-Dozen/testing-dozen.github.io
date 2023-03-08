@@ -486,7 +486,7 @@ Topics:
 
 Exercise:
 * [Lloyd Roden's good old Test Team / Tester personality Test](https://www.methodsandtools.com/archive/archive.php?id=30)
-* [Slides from 'personality astrology' books from earlier](https://github.com/Testing-Dozen/testing-dozen.github.io/blob/main/TestingDozen14.zip)
+* [Slides from 'personality astrology' books from earlier](https://github.com/Testing-Dozen/testing-dozen.github.io/raw/main/TestingDozen14.zip)
 
 
 ![Four Tester Personalities](https://github.com/Testing-Dozen/testing-dozen.github.io/blob/main/Session14.png?raw=true)
