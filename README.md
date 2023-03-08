@@ -473,7 +473,7 @@ Our samples:
 
 ![Skills inventory check](https://github.com/Testing-Dozen/testing-dozen.github.io/blob/main/Session13-checklist.png?raw=true)
 
-Session 14: Tester CVs and Your Personality
+### Session 14: Tester CVs and Your Personality
 
 Targeted Capability:
 * CV that gets you to interview
