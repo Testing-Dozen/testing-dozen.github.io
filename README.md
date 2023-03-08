@@ -484,7 +484,7 @@ Topics:
 * Sharing experiences of getting to interview
 * Four tester personalities and tailoring your message to more specific for CVs
 
-Exercise: 
+Exercise:
 * [Lloyd Roden's good old Test Team / Tester personality Test](https://www.methodsandtools.com/archive/archive.php?id=30)
 
 ![Four Tester Personalities](https://github.com/Testing-Dozen/testing-dozen.github.io/blob/main/Session14.png?raw=true)
