@@ -446,7 +446,7 @@ Targeted Capability:
 * Exploring an application and naming its features
 * Seeing options in browser drivers: playwright and selenium
 
-Topics: 
+Topics:
 
 * Skills inventory, recognizing and naming what skills we have been learning
 * Testing when quality is not inherently bad
@@ -454,24 +454,40 @@ Topics:
 * Basic test in python+playwright and python+selenium
 * When would you care to drive *real* browsers
 
-Test Target: 
+Test Target:
 
 * [To Do MVC JS Vanilla](https://todomvc.com/examples/vanillajs/#/)
 
-Bugs: 
+Bugs:
 
 * Chosen colors on the app make recognizing elements and seeing texts difficult
 * Instructions to use app in small font and located at end of list while there is space to display them more prominently
 * Selecting all tasks functionality icon is not clearly communicating its existence
 * 404 on favicon, no favicon defined and is visible as error in devtools
 
-Our samples: 
+Our samples:
 
 * [Mixed project](https://github.com/Testing-Dozen/todo-mvc-playwright-selenium)
 * [Growing project for playwright](https://github.com/exploratory-testing-academy/todomvc-python-playwright)
 * [Growing project for selenium](https://github.com/exploratory-testing-academy/todomvc-python-selenium)
 
 ![Skills inventory check](https://github.com/Testing-Dozen/testing-dozen.github.io/blob/main/Session13-checklist.png?raw=true)
+
+Session 14: Tester CVs and Your Personality
+
+Targeted Capability:
+* CV that gets you to interview
+* Understanding your tester personality and how it impacts your likely style of testing
+
+Topics:
+* Reviewing CVs and proposing improvements
+* Sharing experiences of getting to interview
+* Four tester personalities and tailoring your message to more specific for CVs
+
+Exercise: 
+* [Lloyd Roden's good old Test Team / Tester personality Test](https://www.methodsandtools.com/archive/archive.php?id=30)
+
+![Four Tester Personalities](https://github.com/Testing-Dozen/testing-dozen.github.io/blob/main/Session14.png?raw=true)
 
 
 ## Targeted Skills
