@@ -491,6 +491,24 @@ Exercise:
 
 ![Four Tester Personalities](https://github.com/Testing-Dozen/testing-dozen.github.io/blob/main/Session14.png?raw=true)
 
+### Session 15: Security testing
+
+Targeted Capability:
+* From functional issues to security issues
+
+Topics:
+* Security issues in software: Adverse users, function in unintended use
+* Guessing passwords
+* Editing client side HTML
+* Connecting available information to find security issues
+
+Exercise:
+* [OWASP Juice Shop](https://demo.owasp-juice.shop/)
+
+Material:
+* [Juice Shop Project Page](https://owasp.org/www-project-juice-shop/)
+* [Built-in Hacking Instructor](https://pwning.owasp-juice.shop/part1/challenges.html#hacking-instructor)
+* [Book of pwning Juice Shop, incl. solutions](https://pwning.owasp-juice.shop/)
 
 ## Targeted Skills
 
