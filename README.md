@@ -510,6 +510,24 @@ Material:
 * [Built-in Hacking Instructor](https://pwning.owasp-juice.shop/part1/challenges.html#hacking-instructor)
 * [Book of pwning Juice Shop, incl. solutions](https://pwning.owasp-juice.shop/)
 
+Homework:
+* Continue with juice shop exercises
+
+### Session 16: Sprint Test Planning
+
+Targeted Capability:
+* Discussing plans of testing work
+
+Topics:
+* Plan tasks and timeboxes not test cases or requirements
+* Task: work you complete until its done to expected results
+* Timebox: work you complete until you have used your budget of time
+* Test planning is timebox planning
+
+Exercise: 
+* Havannah board game sprint 1, 2 and N
+
+
 ## Targeted Skills
 
 Can do the testing job?
