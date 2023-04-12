@@ -524,7 +524,7 @@ Topics:
 * Timebox: work you complete until you have used your budget of time
 * Test planning is timebox planning
 
-Exercise: 
+Exercise:
 * Havannah board game sprint 1, 2 and N
 
 ### Session 17: Browser testing refresher
@@ -538,7 +538,7 @@ Topics:
 * Syntactic sugar and wrapper methods
 
 Exercise:
-* Run and extend: https://github.com/Testing-Dozen/todo-mvc-playwright-selenium
+* Run and extend: [https://github.com/Testing-Dozen/todo-mvc-playwright-selenium](https://github.com/Testing-Dozen/todo-mvc-playwright-selenium)
 
 ### Session 18: CI Pipelines
 
@@ -551,8 +551,8 @@ Topics:
 * Review pipelines on Jenkins and GitLab CI
 
 Exercise:
-* https://qaautomationlabs.com/automate-playwright-test-cases-with-ci-cd-github-actions/ + debugging missing steps
-* Running sample: https://github.com/Testing-Dozen/playwright-on-github-actions
+* [https://qaautomationlabs.com/automate-playwright-test-cases-with-ci-cd-github-actions/](https://qaautomationlabs.com/automate-playwright-test-cases-with-ci-cd-github-actions/) + debugging missing steps
+* Running sample: [https://github.com/Testing-Dozen/playwright-on-github-actions](https://github.com/Testing-Dozen/playwright-on-github-actions)
 
 ## Targeted Skills
 
