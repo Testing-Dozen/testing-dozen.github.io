@@ -527,6 +527,32 @@ Topics:
 Exercise: 
 * Havannah board game sprint 1, 2 and N
 
+### Session 17: Browser testing refresher
+
+Targeted Capability:
+* Browser testing with Selenium and Playwright on Python
+
+Topics:
+* Browser testing driver options: Selenium and Playwright
+* APIs for browser testing
+* Syntactic sugar and wrapper methods
+
+Exercise:
+* Run and extend: https://github.com/Testing-Dozen/todo-mvc-playwright-selenium
+
+### Session 18: CI Pipelines
+
+Targeted Capability:
+* Pipelines as automatic way to run tests
+* Naming few pipeline tools
+
+Topics:
+* Implement a pipeline to run tests with GitHub Actions
+* Review pipelines on Jenkins and GitLab CI
+
+Exercise:
+* https://qaautomationlabs.com/automate-playwright-test-cases-with-ci-cd-github-actions/ + debugging missing steps
+* Running sample: https://github.com/Testing-Dozen/playwright-on-github-actions
 
 ## Targeted Skills
 
