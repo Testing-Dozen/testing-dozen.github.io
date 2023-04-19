@@ -578,6 +578,9 @@ Exercise:
 Homework:
 * Read the code to understand the repository we are refactoring for test_basic.py to page object and data separation
 
+Recommended reading:
+* [The top five design patterns to level up your software testing](https://levelup.gitconnected.com/the-top-five-design-patterns-to-level-up-your-software-testing-2596190fcba3)
+
 ## Targeted Skills
 
 Can do the testing job?
