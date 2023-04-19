@@ -554,6 +554,30 @@ Exercise:
 * [https://qaautomationlabs.com/automate-playwright-test-cases-with-ci-cd-github-actions/](https://qaautomationlabs.com/automate-playwright-test-cases-with-ci-cd-github-actions/) + debugging missing steps
 * Running sample: [https://github.com/Testing-Dozen/playwright-on-github-actions](https://github.com/Testing-Dozen/playwright-on-github-actions)
 
+### Session 19: Taking over other's projects
+
+Targeted Capability:
+* Navigating in code
+* Starting with green after sorting dependencies
+
+Topics:
+* Dependencies, lifecycle of 3rd party components including your test framework
+* Maintenance of dependencies, change strategies
+* Fixtures with setup and teardown
+* Modeling page in class 'page objects'
+* Separating data
+* Utilities and helpers
+* Run parameters
+* Logging
+
+![What makes taking someone's project over a challenge](https://github.com/Testing-Dozen/testing-dozen.github.io/blob/main/Session19.png?raw=true)
+
+Exercise:
+* Read and clean up [https://github.com/exploratory-testing-academy/todomvc-python-playwright](https://github.com/exploratory-testing-academy/todomvc-python-playwright)
+
+Homework:
+* Read the code to understand the repository we are refactoring for test_basic.py to page object and data separation
+
 ## Targeted Skills
 
 Can do the testing job?
