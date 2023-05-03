@@ -581,6 +581,21 @@ Homework:
 Recommended reading:
 * [The top five design patterns to level up your software testing](https://levelup.gitconnected.com/the-top-five-design-patterns-to-level-up-your-software-testing-2596190fcba3)
 
+### Session 20: Test Case Management in Jira and Jira XRay
+
+Targeted Capability:
+* Test case management tool basics
+* Tasks (one time) and tests (reusable tasks)
+
+Topics:
+* Prerequisites, Tests, Test Plans, Test Sets, Test Repository, Test Executions as Jira ticket types
+* Plan is to report on results
+* Tasks and Tests 
+* Reasons to avoid steps
+* Consise and useful documentation for posterity
+
+![Concepts of Test Case Management](https://github.com/Testing-Dozen/testing-dozen.github.io/blob/main/Session20.png?raw=true)
+
 ## Targeted Skills
 
 Can do the testing job?
