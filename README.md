@@ -18,11 +18,6 @@
 * Sanna Tawah @nanahamjam
 * Martha  @Lopezmartha
 * Sergey   @embedded-sergey
-* Miia @iammiiam
-* Aino
-* Hanna @tuutin-t
-
-
 
 ## Sessions as those emerge
 
@@ -277,7 +272,7 @@ Topics:
 Target App:
 
 * Restful Booker Platform by Mark Winteringham
-  * [Code and java test samples](https://github.com/mwinteringham/restful-booker-platform]
+  * [Code and java test samples](https://github.com/mwinteringham/restful-booker-platform)
   * [Hosted test version with limitations](https://automationintesting.online)
 * Our ensemble notes [https://github.com/Testing-Dozen/dozen_restful_booker](https://github.com/Testing-Dozen/dozen_restful_booker)
 
@@ -476,91 +471,109 @@ Our samples:
 ### Session 14: Tester CVs and Your Personality
 
 Targeted Capability:
+
 * CV that gets you to interview
 * Understanding your tester personality and how it impacts your likely style of testing
 
 Topics:
+
 * Reviewing CVs and proposing improvements
 * Sharing experiences of getting to interview
 * Four tester personalities and tailoring your message to more specific for CVs
 
 Exercise:
+
 * [Lloyd Roden's good old Test Team / Tester personality Test](https://www.methodsandtools.com/archive/archive.php?id=30)
 * [Slides from 'personality astrology' books from earlier](https://github.com/Testing-Dozen/testing-dozen.github.io/raw/main/TestingDozen14.zip)
-
 
 ![Four Tester Personalities](https://github.com/Testing-Dozen/testing-dozen.github.io/blob/main/Session14.png?raw=true)
 
 ### Session 15: Security testing
 
 Targeted Capability:
+
 * From functional issues to security issues
 
 Topics:
+
 * Security issues in software: Adverse users, function in unintended use
 * Guessing passwords
 * Editing client side HTML
 * Connecting available information to find security issues
 
 Exercise:
+
 * [OWASP Juice Shop](https://demo.owasp-juice.shop/)
 
 Material:
+
 * [Juice Shop Project Page](https://owasp.org/www-project-juice-shop/)
 * [Built-in Hacking Instructor](https://pwning.owasp-juice.shop/part1/challenges.html#hacking-instructor)
 * [Book of pwning Juice Shop, incl. solutions](https://pwning.owasp-juice.shop/)
 
 Homework:
+
 * Continue with juice shop exercises
 
 ### Session 16: Sprint Test Planning
 
 Targeted Capability:
+
 * Discussing plans of testing work
 
 Topics:
+
 * Plan tasks and timeboxes not test cases or requirements
 * Task: work you complete until its done to expected results
 * Timebox: work you complete until you have used your budget of time
 * Test planning is timebox planning
 
 Exercise:
+
 * Havannah board game sprint 1, 2 and N
 
 ### Session 17: Browser testing refresher
 
 Targeted Capability:
+
 * Browser testing with Selenium and Playwright on Python
 
 Topics:
+
 * Browser testing driver options: Selenium and Playwright
 * APIs for browser testing
 * Syntactic sugar and wrapper methods
 
 Exercise:
+
 * Run and extend: [https://github.com/Testing-Dozen/todo-mvc-playwright-selenium](https://github.com/Testing-Dozen/todo-mvc-playwright-selenium)
 
 ### Session 18: CI Pipelines
 
 Targeted Capability:
+
 * Pipelines as automatic way to run tests
 * Naming few pipeline tools
 
 Topics:
+
 * Implement a pipeline to run tests with GitHub Actions
 * Review pipelines on Jenkins and GitLab CI
 
 Exercise:
+
 * [https://qaautomationlabs.com/automate-playwright-test-cases-with-ci-cd-github-actions/](https://qaautomationlabs.com/automate-playwright-test-cases-with-ci-cd-github-actions/) + debugging missing steps
 * Running sample: [https://github.com/Testing-Dozen/playwright-on-github-actions](https://github.com/Testing-Dozen/playwright-on-github-actions)
 
 ### Session 19: Taking over other's projects
 
 Targeted Capability:
+
 * Navigating in code
 * Starting with green after sorting dependencies
 
 Topics:
+
 * Dependencies, lifecycle of 3rd party components including your test framework
 * Maintenance of dependencies, change strategies
 * Fixtures with setup and teardown
@@ -573,28 +586,50 @@ Topics:
 ![What makes taking someone's project over a challenge](https://github.com/Testing-Dozen/testing-dozen.github.io/blob/main/Session19.png?raw=true)
 
 Exercise:
+
 * Read and clean up [https://github.com/exploratory-testing-academy/todomvc-python-playwright](https://github.com/exploratory-testing-academy/todomvc-python-playwright)
 
 Homework:
+
 * Read the code to understand the repository we are refactoring for test_basic.py to page object and data separation
 
 Recommended reading:
+
 * [The top five design patterns to level up your software testing](https://levelup.gitconnected.com/the-top-five-design-patterns-to-level-up-your-software-testing-2596190fcba3)
 
 ### Session 20: Test Case Management in Jira and Jira XRay
 
 Targeted Capability:
+
 * Test case management tool basics
 * Tasks (one time) and tests (reusable tasks)
 
 Topics:
+
 * Prerequisites, Tests, Test Plans, Test Sets, Test Repository, Test Executions as Jira ticket types
 * Plan is to report on results
-* Tasks and Tests 
+* Tasks and Tests
 * Reasons to avoid steps
 * Consise and useful documentation for posterity
 
 ![Concepts of Test Case Management](https://github.com/Testing-Dozen/testing-dozen.github.io/blob/main/Session20.png?raw=true)
+
+### Session 21: The End is The Beginning
+
+Targeted Capability:
+
+* Tally of acquired skills and knowledge
+* Questions and Answers
+
+Topics:
+
+* What we remember - restful booker, juice shop, testing personalities, learning together
+* Next steps on learning journey, social learning
+* Finding work to practice in
+
+![Tally of skills](https://github.com/Testing-Dozen/testing-dozen.github.io/blob/main/Session21.png?raw=true)
+
+![Questions](https://github.com/Testing-Dozen/testing-dozen.github.io/blob/main/Session21Questions.png?raw=true)
 
 ## Targeted Skills
 
